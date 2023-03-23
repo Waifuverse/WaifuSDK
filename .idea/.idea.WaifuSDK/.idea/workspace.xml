@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2bf6630f-2e27-42a3-888e-35c379317c8e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp-Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AddressableAssetsData/Android/addressables_content_state.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AddressableAssetsData/Android/addressables_content_state.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/Default Local Group.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AddressableAssetsData/AssetGroups/Default Local Group.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AddressableAssetsData/OSX/addressables_content_state.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AddressableAssetsData/OSX/addressables_content_state.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AddressableAssetsData/Windows/addressables_content_state.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AddressableAssetsData/Windows/addressables_content_state.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/AddressableAssetsData/iOS/addressables_content_state.bin" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/AddressableAssetsData/iOS/addressables_content_state.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ModdingBasic.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ModdingBasic.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaifuSDK/VoiceBlendShapeFinder.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/WaifuSDK/VoiceBlendShapeFinder.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/WaifuSDK/WaifuExporter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/WaifuSDK/WaifuExporter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Waifu_Test.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Waifu_Test.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssistantCoreSDKEditor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/AssistantCoreSDKEditor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AssistantCoreSDKRuntime.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/AssistantCoreSDKRuntime.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facebook.Wit.Dictation.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook.Wit.Dictation.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Facebook.Wit.Dictation.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Facebook.Wit.Dictation.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meta.VoiceSDK.Mic.Common.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Meta.VoiceSDK.Mic.Common.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meta.VoiceSDK.Mic.Other.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Meta.VoiceSDK.Mic.Other.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meta.WitAI.Lib.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Meta.WitAI.Lib.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meta.WitAi.Conduit.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Meta.WitAi.Conduit.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meta.WitAi.Conduit.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Meta.WitAi.Conduit.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meta.WitAi.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Meta.WitAi.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meta.WitAi.Lib.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Meta.WitAi.Lib.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meta.WitAi.TTS.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Meta.WitAi.TTS.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meta.WitAi.TTS.Samples.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Meta.WitAi.TTS.Samples.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meta.WitAi.TTS.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Meta.WitAi.TTS.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Meta.WitAi.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Meta.WitAi.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.AudioManager.Audio.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.AudioManager.Audio.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.AudioManager.Utils.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.AudioManager.Utils.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.AudioManager.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.AudioManager.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.Interaction.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.Interaction.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.Interaction.InterfaceSupport.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.Interaction.InterfaceSupport.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.Interaction.OVR.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.Interaction.OVR.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.Interaction.OVR.Samples.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.Interaction.OVR.Samples.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.Interaction.OVR.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.Interaction.OVR.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.Interaction.Samples.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.Interaction.Samples.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.Interaction.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.Interaction.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.LipSync.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.LipSync.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.LipSync.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.LipSync.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.Platform.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.Platform.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.Platform.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.Platform.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.Spatializer.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.Spatializer.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.Spatializer.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.Spatializer.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.VR.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.VR.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.VR.Scripts.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.VR.Scripts.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.VR.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.VR.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Oculus.Voice.Demo.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Oculus.Voice.Demo.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VoiceSDK.Dictation.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/VoiceSDK.Dictation.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VoiceSDK.Dictation.Runtime.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/VoiceSDK.Dictation.Runtime.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VoiceSDK.Editor.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/VoiceSDK.Editor.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VoiceSDK.Runtime.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/VoiceSDK.Runtime.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp-Editor.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Assembly-CSharp.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/AssistantCoreSDKEditor.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/AssistantCoreSDKEditor.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/AssistantCoreSDKRuntime.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/AssistantCoreSDKRuntime.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Facebook.Wit.Dictation.Editor.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Facebook.Wit.Dictation.Editor.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Facebook.Wit.Dictation.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Facebook.Wit.Dictation.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Meta.VoiceSDK.Mic.Common.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Meta.VoiceSDK.Mic.Common.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Meta.VoiceSDK.Mic.Other.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Meta.VoiceSDK.Mic.Other.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Meta.WitAI.Lib.Editor.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Meta.WitAI.Lib.Editor.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Meta.WitAi.Conduit.Editor.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Meta.WitAi.Conduit.Editor.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Meta.WitAi.Conduit.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Meta.WitAi.Conduit.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Meta.WitAi.Editor.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Meta.WitAi.Editor.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Meta.WitAi.Lib.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Meta.WitAi.Lib.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Meta.WitAi.TTS.Editor.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Meta.WitAi.TTS.Editor.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Meta.WitAi.TTS.Samples.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Meta.WitAi.TTS.Samples.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Meta.WitAi.TTS.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Meta.WitAi.TTS.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Meta.WitAi.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Meta.WitAi.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Oculus.AudioManager.Audio.Editor.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Oculus.AudioManager.Audio.Editor.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Oculus.AudioManager.Utils.Editor.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Oculus.AudioManager.Utils.Editor.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Oculus.AudioManager.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Oculus.AudioManager.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Oculus.Interaction.Editor.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Oculus.Interaction.Editor.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Oculus.Interaction.InterfaceSupport.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Oculus.Interaction.InterfaceSupport.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Oculus.Interaction.OVR.Editor.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Oculus.Interaction.OVR.Editor.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Oculus.Interaction.OVR.Samples.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Oculus.Interaction.OVR.Samples.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Oculus.Interaction.OVR.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Oculus.Interaction.OVR.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Oculus.Interaction.Samples.Editor.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Oculus.Interaction.Samples.Editor.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Oculus.Interaction.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Oculus.Interaction.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Oculus.LipSync.Editor.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Oculus.LipSync.Editor.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Oculus.LipSync.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Oculus.LipSync.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Oculus.Platform.Editor.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Oculus.Platform.Editor.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Oculus.Platform.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Oculus.Platform.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Oculus.Spatializer.Editor.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Oculus.Spatializer.Editor.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Oculus.Spatializer.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Oculus.Spatializer.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Oculus.VR.Editor.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Oculus.VR.Editor.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Oculus.VR.Scripts.Editor.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Oculus.VR.Scripts.Editor.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Oculus.VR.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Oculus.VR.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/Oculus.Voice.Demo.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/Oculus.Voice.Demo.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/VoiceSDK.Dictation.Editor.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/VoiceSDK.Dictation.Editor.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/VoiceSDK.Dictation.Runtime.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/VoiceSDK.Dictation.Runtime.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/VoiceSDK.Editor.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/VoiceSDK.Editor.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/VoiceSDK.Runtime.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/VoiceSDK.Runtime.csproj.AssemblyReference.cache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2N79tssbvFpfqCHsL4IgzyScAyI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Discover.Launch.Via.Unity&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="UnitTests (batch mode)" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\2021.3.21f1\Editor\Unity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="-runTests -batchmode -projectPath C:\Users\bacad\Documents\WaifuINC\WaifuSDK -testResults Logs/results.xml -testPlatform EditMode -debugCodeOptimization" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\bacad\Documents\WaifuINC\WaifuSDK" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bf6630f-2e27-42a3-888e-35c379317c8e" name="Changes" comment="" />
+      <created>1679004471376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679004471376</updated>
+      <workItem from="1679004479205" duration="6368000" />
+      <workItem from="1679262992099" duration="11503000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+</project>
