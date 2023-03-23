@@ -43,14 +43,18 @@ public class BlinkController : MonoBehaviour
 
         if (skinMeshRenderer != null)
         {
-            blinkBlendShapeIndices = new List<int>();
-            for (int i = 0; i < skinMeshRenderer.sharedMesh.blendShapeCount; i++)
+            if (blinkBlendShapeIndices == null)
             {
-                if (skinMeshRenderer.sharedMesh.GetBlendShapeName(i).Equals("Blink", System.StringComparison.OrdinalIgnoreCase))
+                blinkBlendShapeIndices = new List<int>();
+                for (int i = 0; i < skinMeshRenderer.sharedMesh.blendShapeCount; i++)
                 {
-                    blinkBlendShapeIndices.Add(i);
+                    if (skinMeshRenderer.sharedMesh.GetBlendShapeName(i).Equals("Blink", System.StringComparison.OrdinalIgnoreCase))
+                    {
+                        blinkBlendShapeIndices.Add(i);
+                    }
                 }
             }
+            
         }
         
     }

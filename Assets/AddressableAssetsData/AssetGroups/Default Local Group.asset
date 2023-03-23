@@ -16,28 +16,7 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: fc6828d1bba15c144868f191e5846065
-  m_SerializeEntries:
-  - m_GUID: 5cd7b6a7cdf57274588ef089f30b8d7c
-    m_Address: Assets/CustomWaifu/Rei_Pubg/Materials
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: 5acda7f58b7d8e14b97f98bf25c31741
-    m_Address: Assets/CustomWaifu/Rei_Pubg/rie_twoEyes.fbm
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: 5b764b0ea292abd499003b19ea0fa028
-    m_Address: Assets/CustomWaifu/Rei_Pubg/rie_twoEyes.fbx
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: 7e61a4ba7f7c8d541b0bcc73c8f1cfe1
-    m_Address: Assets/CustomWaifu/Rei_Pubg/rie_twoEyes.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Waifu
-  - m_GUID: e75467167a9a171459e7b3e6601e193a
-    m_Address: Assets/CustomWaifu/Rei_Pubg/Screenshot 2023-03-22 110236.png
-    m_ReadOnly: 0
-    m_SerializedLabels: []
+  m_SerializeEntries: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 22f74f28cd6eaa944a58b0ec67aa1d64, type: 2}
   m_SchemaSet:
