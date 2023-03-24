@@ -16,7 +16,24 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: fc6828d1bba15c144868f191e5846065
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: de719d5df94ddcd4ea6679d7746c91ac
+    m_Address: Assets/CustomWaifu/Miku/Materials
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 66dae5161956dde408242aba1826241b
+    m_Address: Assets/CustomWaifu/Miku/mikuDemo.fbm
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 3866c3cc22bb49a4ebed2f2609c7f85c
+    m_Address: Assets/CustomWaifu/Miku/mikuDemo.fbx
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 22073de64b392dd4eaa8ef70faa2fc7d
+    m_Address: Assets/CustomWaifu/Miku/mikuDemo.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Waifu
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 22f74f28cd6eaa944a58b0ec67aa1d64, type: 2}
   m_SchemaSet:

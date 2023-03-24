@@ -43,8 +43,10 @@ public class BlinkController : MonoBehaviour
 
         if (skinMeshRenderer != null)
         {
-            if (blinkBlendShapeIndices == null)
+            //if the list is empty
+            if (blinkBlendShapeIndices == null || blinkBlendShapeIndices.Count == 0)
             {
+
                 blinkBlendShapeIndices = new List<int>();
                 for (int i = 0; i < skinMeshRenderer.sharedMesh.blendShapeCount; i++)
                 {
