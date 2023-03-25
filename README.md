@@ -95,6 +95,9 @@ Todo: VRM -\> Blender -\> fbx
 
 **Making a Local/Private Mod or Quickload for Testing**
 
-1. To make a local/private mod or quickload for testing, drag the .zip file into the persistent data path.
+1. To make a local/private mod or quickload for testing, drag the .zip file into the persistent data path below/
+
+C:\Users\*{your username here}*\AppData\LocalLow\Waifuverse\AI_Waifu\mod.io\04680\data\mods
+![](/DocImg/screenShotPersistant.png)
 
 Todo: make a button that shows the persistent path.
