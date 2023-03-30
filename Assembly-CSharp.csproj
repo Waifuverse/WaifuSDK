@@ -26,7 +26,7 @@
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
     <OutputPath>Temp\Bin\Debug\Assembly-CSharp\</OutputPath>
-    <DefineConstants>UNITY_2021_3_21;UNITY_2021_3;UNITY_2021;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;PLATFORM_ARCH_64;UNITY_64;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_VIRTUALTEXTURING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;RENDER_SOFTWARE_CURSOR;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;PLATFORM_STANDALONE;TEXTCORE_1_0_OR_NEWER;PLATFORM_STANDALONE_OSX;UNITY_STANDALONE_OSX;UNITY_STANDALONE;ENABLE_GAMECENTER;ENABLE_RUNTIME_GI;ENABLE_MOVIES;ENABLE_NETWORK;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_UNITY_GAME_SERVICES_ANALYTICS_SUPPORT;ENABLE_CLUSTER_SYNC;ENABLE_CLUSTERINPUT;ENABLE_SPATIALTRACKING;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;ENABLE_WEBSOCKET_HOST;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
+    <DefineConstants>UNITY_2021_3_21;UNITY_2021_3;UNITY_2021;UNITY_5_3_OR_NEWER;UNITY_5_4_OR_NEWER;UNITY_5_5_OR_NEWER;UNITY_5_6_OR_NEWER;UNITY_2017_1_OR_NEWER;UNITY_2017_2_OR_NEWER;UNITY_2017_3_OR_NEWER;UNITY_2017_4_OR_NEWER;UNITY_2018_1_OR_NEWER;UNITY_2018_2_OR_NEWER;UNITY_2018_3_OR_NEWER;UNITY_2018_4_OR_NEWER;UNITY_2019_1_OR_NEWER;UNITY_2019_2_OR_NEWER;UNITY_2019_3_OR_NEWER;UNITY_2019_4_OR_NEWER;UNITY_2020_1_OR_NEWER;UNITY_2020_2_OR_NEWER;UNITY_2020_3_OR_NEWER;UNITY_2021_1_OR_NEWER;UNITY_2021_2_OR_NEWER;UNITY_2021_3_OR_NEWER;UNITY_INCLUDE_TESTS;ENABLE_AR;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_EVENT_QUEUE;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_TEXTURE_STREAMING;ENABLE_UNET;ENABLE_LZMA;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_UNITYWEBREQUEST;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_COLLAB;ENABLE_CLOUD_SERVICES_COLLAB_SOFTLOCKS;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_SERVICES_USE_WEBREQUEST;ENABLE_CLOUD_SERVICES_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_NATIVE_CRASH_REPORTING;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_HUB_LICENSE;ENABLE_WEBSOCKET_CLIENT;ENABLE_DIRECTOR_AUDIO;ENABLE_DIRECTOR_TEXTURE;ENABLE_MANAGED_JOBS;ENABLE_MANAGED_TRANSFORM_JOBS;ENABLE_MANAGED_ANIMATION_JOBS;ENABLE_MANAGED_AUDIO_JOBS;ENABLE_RUNTIME_PERMISSIONS;ENABLE_ENGINE_CODE_STRIPPING;ENABLE_ONSCREEN_KEYBOARD;ENABLE_MANAGED_UNITYTLS;INCLUDE_DYNAMIC_GI;ENABLE_SCRIPTING_GC_WBARRIERS;PLATFORM_SUPPORTS_MONO;ENABLE_VIDEO;ENABLE_ACCELERATOR_CLIENT_DEBUGGING;PLATFORM_ANDROID;TEXTCORE_1_0_OR_NEWER;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;UNITY_CAN_SHOW_SPLASH_SCREEN;UNITY_HAS_GOOGLEVR;UNITY_HAS_TANGO;ENABLE_SPATIALTRACKING;ENABLE_ETC_COMPRESSION;PLATFORM_EXTENDS_VULKAN_DEVICE;PLATFORM_HAS_MULTIPLE_SWAPCHAINS;UNITY_ANDROID_SUPPORTS_SHADOWFILES;PLATFORM_UPDATES_TIME_OUTSIDE_OF_PLAYER_LOOP;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;NET_STANDARD_2_0;NET_STANDARD;NET_STANDARD_2_1;NETSTANDARD;NETSTANDARD2_1;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;ENABLE_UNITY_COLLECTIONS_CHECKS;ENABLE_BURST_AOT;UNITY_TEAM_LICENSE;ENABLE_CUSTOM_RENDER_TEXTURE;ENABLE_DIRECTOR;ENABLE_LOCALIZATION;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_TILEMAP;ENABLE_TIMELINE;ENABLE_LEGACY_INPUT_MANAGER;TEXTCORE_FONT_ENGINE_1_5_OR_NEWER;CSHARP_7_OR_LATER;CSHARP_7_3_OR_NEWER</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <NoWarn>0169,0649</NoWarn>
@@ -194,6 +194,7 @@
      <Compile Include="Assets\Oculus\SampleFramework\Usage\SpatialAnchor\Scripts\AnchorUIManager.cs" />
      <Folder Include="Assets" />
      <Folder Include="Assets\Toon\Shader\Tess" />
+     <Folder Include="Assets\CustomWaifu\Sayaka" />
      <None Include="Assets\Toon\Shader\Toon_DoubleShadeWithFeather_Mobile_TransClipping_StencilMask.shader" />
      <Folder Include="Assets\Oculus\SampleFramework\Core\TouchControllers\Materials" />
      <None Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Shaders\XingLightShader.shader" />
@@ -220,6 +221,7 @@
      <None Include="Assets\Toon\Shader\Tess\ToonColor_ShadingGradeMap_AngelRing_TransClipping_Tess_StencilOut.shader" />
      <Folder Include="Assets\Oculus\SampleFramework\Core\DistanceGrab\Scripts" />
      <Folder Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scripts" />
+     <Folder Include="Assets\CustomWaifu\Sayaka\Sayaka.fbm" />
      <Folder Include="Assets\Oculus\SampleFramework\Usage\Locomotion\Shaders" />
      <Folder Include="Assets\Oculus\SampleFramework" />
      <None Include="Assets\Toon\Shader\ToonColor_ShadingGradeMap_TransClipping_StencilOut.shader" />
@@ -256,6 +258,7 @@
      <Folder Include="Assets\Oculus\SampleFramework\Core\TouchControllers\NewTouchControllers" />
      <None Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Shaders\GradientSkybox.shader" />
      <None Include="Assets\Toon\Shader\Toon_ShadingGradeMap_AngelRing_TransClipping.shader" />
+     <Folder Include="Assets\CustomWaifu\OrangeVRM\orange_.AvatarDescription" />
      <Folder Include="Assets\Oculus\Interaction" />
      <None Include="Assets\Toon\Shader\Tess\ToonColor_DoubleShadeWithFeather_Transparent_Tess_StencilOut.shader" />
      <Folder Include="Assets\Resources" />
@@ -286,6 +289,7 @@
      <None Include="Assets\Toon\Shader\Tess\ToonColor_ShadingGradeMap_AngelRing_Tess_TransClipping.shader" />
      <Folder Include="Assets\Oculus\SampleFramework\Core\TouchControllers\Models" />
      <None Include="Assets\Toon\Shader\ToonColor_ShadingGradeMap_AngelRing_StencilOut.shader" />
+     <Folder Include="Assets\CustomWaifu\OrangeVRM\orange_.Textures" />
      <Folder Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Prefabs" />
      <None Include="Assets\Toon\Shader\Tess\ToonColor_DoubleShadeWithFeather_Clipping_Tess_StencilOut.shader" />
      <Folder Include="Assets\Oculus\SampleFramework\Usage\DistanceGrab\Prefabs\OutlineItems" />
@@ -296,7 +300,9 @@
      <None Include="Assets\Toon\Shader\ToonColor_ShadingGradeMap_StencilMask.shader" />
      <Folder Include="Assets\Skyboxs" />
      <Folder Include="Assets\Oculus\SampleFramework\Usage\TouchPro\Textures" />
+     <Folder Include="Assets\CustomWaifu\Major\Materials" />
      <Folder Include="Assets\Oculus\SampleFramework\Usage\TouchPro\Scripts\StylusTip" />
+     <Folder Include="Assets\CustomWaifu\Sayaka\Materials" />
      <None Include="Assets\Oculus\SampleFramework\Usage\Firebase\google-services.json" />
      <Folder Include="Assets\Oculus\SampleFramework\Usage\OVROverlayCanvas\Shaders" />
      <None Include="Assets\Toon\Shader\Tess\Toon_DoubleShadeWithFeather_Clipping_Tess_StencilOut.shader" />
@@ -306,6 +312,7 @@
      <None Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Shaders\OculusSampleTrainPropsShader.shader" />
      <Folder Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Scenes" />
      <None Include="Assets\Oculus\SampleFramework\Usage\DistanceGrab\Materials\ToyCubeWithOutline.shader" />
+     <Folder Include="Assets\CustomWaifu\Major" />
      <None Include="Assets\Oculus\SampleFramework\Core\Locomotion\Materials\ColumnGlow.shader" />
      <None Include="Assets\Toon\Shader\Tess\Toon_ShadingGradeMap_Tess_Light.shader" />
      <Folder Include="Assets\Oculus\SampleFramework\Core\CustomHands\Shaders" />
@@ -313,6 +320,7 @@
      <Folder Include="Assets\Oculus\Voice\Scripts" />
      <Folder Include="Assets\Oculus\Voice\Demo\Prefabs" />
      <Folder Include="Assets\AddressableAssetsData\AssetGroups\Schemas" />
+     <Folder Include="Assets\CustomWaifu\OrangeVRM\orange_.MetaObject" />
      <Folder Include="Assets\Oculus\Voice\Lib\PlatformCompatibility\Plugins" />
      <None Include="Assets\Toon\Shader\ToonColor_ShadingGradeMap_AngelRing_TransClipping_StencilOut.shader" />
      <Folder Include="Assets\AddressableAssetsData\Windows" />
@@ -341,6 +349,7 @@
      <Folder Include="Assets\AddressableAssetsData\OSX" />
      <Folder Include="Assets\Oculus\SampleFramework\Usage\SpatialAnchor\Meshs" />
      <Folder Include="Assets\Oculus\SampleFramework\Usage\TouchPro\Scripts" />
+     <Folder Include="Assets\CustomWaifu\OrangeVRM\orange_.Materials" />
      <Folder Include="Assets\Oculus\SampleFramework\Usage\Locomotion" />
      <None Include="Assets\Toon\Shader\Toon_ShadingGradeMap_TransClipping_StencilOut.shader" />
      <Folder Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Materials\skybox" />
@@ -372,6 +381,7 @@
      <Folder Include="Assets\Oculus\SampleFramework\Usage\SpatialAnchor\Materials" />
      <Folder Include="Assets\Oculus\SampleFramework\Usage\DistanceGrab\PhysicsMaterials" />
      <None Include="Assets\Toon\Shader\Tess\Toon_ShadingGradeMap_Tess.shader" />
+     <Folder Include="Assets\CustomWaifu\OrangeVRM" />
      <Folder Include="Assets\Oculus\SampleFramework\Usage\SpatialAnchor\Prefabs" />
      <Folder Include="Assets\Oculus\Voice\Demo" />
      <None Include="Assets\Toon\Shader\Tess\ToonColor_ShadingGradeMap_AngelRing_Tess.shader" />
@@ -386,6 +396,7 @@
      <None Include="Assets\Toon\Shader\Tess\Toon_ShadingGradeMap_Tess_Light_StencilOut.shader" />
      <Folder Include="Assets\Oculus\SampleFramework\Core\CustomHands" />
      <Folder Include="Assets\Oculus\SampleFramework\Usage\Passthrough\Scenes" />
+     <Folder Include="Assets\CustomWaifu\OrangeVRM\orange_.Avatar" />
      <Folder Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Scripts" />
      <Folder Include="Assets\Oculus\SampleFramework\Core\Gradle" />
      <Folder Include="Assets\Oculus\SampleFramework\Core\CustomHands\Animations" />
@@ -417,6 +428,7 @@
      <Folder Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Textures\ControllerBoxTextures" />
      <None Include="Assets\Toon\Shader\Toon_DoubleShadeWithFeather_StencilOut.shader" />
      <Folder Include="Assets\Oculus\Voice\Features\Dictation\Scripts" />
+     <Folder Include="Assets\CustomWaifu\OrangeVRM\orange_.BlendShapes" />
      <Folder Include="Assets\Oculus\SampleFramework\Usage\DistanceGrab\Models" />
      <None Include="Assets\Toon\Shader\Tess\Toon_DoubleShadeWithFeather_TransClipping_Tess_StencilOut.shader" />
      <Folder Include="Assets\Oculus\SampleFramework\Core\Video\Plugins\Android" />
@@ -435,6 +447,7 @@
      <None Include="Assets\Toon\Shader\Toon_ShadingGradeMap.shader" />
      <Folder Include="Assets\Oculus\SampleFramework\Usage\SharedAssets\Models" />
      <Folder Include="Assets\WaifuSDK" />
+     <Folder Include="Assets\CustomWaifu\OrangeVRM\orange_.Meshes" />
      <Folder Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\Scripts" />
      <Folder Include="Assets\Oculus\SampleFramework\Usage\TouchPro\Prefabs" />
      <None Include="Assets\Toon\Shader\ToonColor_DoubleShadeWithFeather_Transparent_StencilOut.shader" />
@@ -577,12 +590,6 @@
      </Reference>
      <Reference Include="UnityEngine.ClothModule">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.21f1\Editor\Data\Managed\UnityEngine\UnityEngine.ClothModule.dll</HintPath>
-     </Reference>
-     <Reference Include="UnityEngine.ClusterInputModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.21f1\Editor\Data\Managed\UnityEngine\UnityEngine.ClusterInputModule.dll</HintPath>
-     </Reference>
-     <Reference Include="UnityEngine.ClusterRendererModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.21f1\Editor\Data\Managed\UnityEngine\UnityEngine.ClusterRendererModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.CoreModule">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.21f1\Editor\Data\Managed\UnityEngine\UnityEngine.CoreModule.dll</HintPath>
@@ -742,9 +749,6 @@
      </Reference>
      <Reference Include="UnityEngine.VideoModule">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.21f1\Editor\Data\Managed\UnityEngine\UnityEngine.VideoModule.dll</HintPath>
-     </Reference>
-     <Reference Include="UnityEngine.VirtualTexturingModule">
-     <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.21f1\Editor\Data\Managed\UnityEngine\UnityEngine.VirtualTexturingModule.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.WindModule">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.21f1\Editor\Data\Managed\UnityEngine\UnityEngine.WindModule.dll</HintPath>

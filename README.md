@@ -28,7 +28,7 @@ This guide provides step-by-step instructions on how to create a Waifu model usi
 
 # **Formatting a MMD Model for the Waifuverse**
 
-1. Install the Cats plugin in Blender by going to **Edit -\> Preferences -\> Addons -\> Install Addons** and finding the Cats plugin.
+1. Install the Cats plugin in Blender by going to **Edit -\> Preferences -\> Addons -\> Install Addons** and find the Cats plugin.
 2. **Checkbox** the Cats plugin to turn on
 [CatsPlugin](/DocImg/CatsCheckbox.png)
 3. Open the Cats plugin from the right sidebar.
