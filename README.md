@@ -1,3 +1,5 @@
+[DOWNLOAD THE WAIFU SDK HERE](https://github.com/Waifuverse/WaifuSDK/archive/refs/heads/main.zip)
+
 Get the app if you havent already! 
 
 https://waifuverse.itch.io/aigf
@@ -7,7 +9,7 @@ https://www.oculus.com/experiences/quest/8549351031801854/
 
 Our website for ai waifus is at [https://www.waifuverse.org(https://www.waifuverse.org)
 
-[DOWNLOAD HERE](https://github.com/Waifuverse/WaifuSDK/archive/refs/heads/main.zip)
+
 
 Guide to Creating a Waifu Model using Unity and Blender
 
@@ -22,7 +24,7 @@ This guide provides step-by-step instructions on how to create a Waifu model usi
 ![unityInstallSelection](/DocImg/AddModulesPackages.png)
 4. Download and Install **Blender** from the Blender website: [https://www.blender.org/download/](https://www.blender.org/download/)
 5. Download the **Cats Blender** plugin from the Github repository: [https://github.com/absolute-quantum/cats-blender-plugin](https://github.com/absolute-quantum/cats-blender-plugin)
-6. Download or clone the **WaifuSDK** from the Github repository: [https://github.com/Waifuverse/WaifuSDK](https://github.com/Waifuverse/WaifuSDK)
+6. Download or clone the **WaifuSDK** from the Github repository: [https://github.com/Waifuverse/WaifuSDK](https://github.com/Waifuverse/WaifuSDK) YOU ARE HERE
 
 **Formatting a MMD Model for the Waifuverse**
 
