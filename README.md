@@ -1,9 +1,13 @@
 Get the app if you havent already! 
+
 https://waifuverse.itch.io/aigf
+
 https://www.oculus.com/experiences/quest/8549351031801854/
+
+
 Our website for ai waifus is at [https://www.waifuverse.org(https://www.waifuverse.org)
 
-[DOWNLOAD HERE(https://github.com/Waifuverse/WaifuSDK/archive/refs/heads/main.zip)]
+[DOWNLOAD HERE](https://github.com/Waifuverse/WaifuSDK/archive/refs/heads/main.zip)
 
 Guide to Creating a Waifu Model using Unity and Blender
 
