@@ -30,7 +30,7 @@ This guide provides step-by-step instructions on how to create a Waifu model usi
 
 1. Install the Cats plugin in Blender by going to **Edit -\> Preferences -\> Addons -\> Install Addons** and find the Cats plugin.
 2. **Checkbox** the Cats plugin to turn on
-[CatsPlugin](/DocImg/CatsCheckbox.png)
+![CatsPlugin](/DocImg/InstallCats.png)
 3. Open the Cats plugin from the right sidebar.
 4. Import the **MMD model** by selecting the model file. For this guide, we will be using a classic MMD model: [https://www.deviantart.com/thenikamiku/art/Miku1052C-Re0710-MMD-dl-680363108](https://www.deviantart.com/thenikamiku/art/Miku1052C-Re0710-MMD-dl-680363108)
 5. In the Cats plugin, go to Settings and Updates and check "Embed Textures on Export".
@@ -38,6 +38,10 @@ This guide provides step-by-step instructions on how to create a Waifu model usi
 # **Formatting a VRM Model in blenderfor the Waifuverse**
 
 1. Todo: Adding VRM support and conversion script
+
+# **Rigging unrigged models**
+
+1. Humanid Rig https://docs.unity3d.com/560/Documentation/Manual/BlenderAndRigify.html
 
 # **Importing the Model into WaifuSDK/Unity**
 

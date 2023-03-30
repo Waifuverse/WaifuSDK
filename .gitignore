@@ -2,15 +2,46 @@ Library/
 Logs/
 Temp/
 Recordings/
-waifuverse.apk
-Waifuverse_CORE.apk
-Assets/Japanese City Megapack
-Assets/Japanese_Street
-Assets/Karasuma_v1
 Assets/CustomWaifu/*
-Assets/Toon Fantasy Nature/
-_WebGL_waifuverse/index.zip
-_DesktopBuild/
+
+
+
 Builds/*
 _DesktopBuild/WaifuverseAIGF_Data/sharedassets0.assets.resS
 _DesktopBuild\WaifuverseAIGF_Data\sharedassets0.assets.resS
+
+
+*.swp
+*.*~
+project.lock.json
+.DS_Store
+*.pyc
+nupkg/
+
+# Visual Studio Code
+.vscode
+
+# Rider
+.idea
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+msbuild.log
+msbuild.err
+msbuild.wrn
