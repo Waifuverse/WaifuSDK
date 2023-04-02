@@ -7,7 +7,9 @@ https://waifuverse.itch.io/aigf
 https://www.oculus.com/experiences/quest/8549351031801854/
 
 
-Our website for ai waifus is at [https://www.waifuverse.org](https://www.waifuverse.org)
+ [Our website for ai waifus.](https://www.waifuverse.org)
+
+[The Waifuverse mod.IO](https://mod.io/g/waifuverse)
 
 
 
@@ -52,25 +54,26 @@ This guide provides step-by-step instructions on how to create a Waifu model usi
 
 1. Make a folder for your custom work. Ideally call the folder "Custom Waifus"
 2. Make a sub folder for your Waifu.
-3. Drag a .fbx file in
-4. Activate read write
+3. Drag a .fbx file into your new subfolder.
+4. Click on the fbx. And look at the model details in the inspector
+5. Activate read write
 
 ![ModelReadWrite](/DocImg/ModelRW.png)
 
-4. Click on the .fbx file and go to the Rig tab. Change it to **humanoid** and click apply. Make sure that avatar is created.
- ![](/DocImg/ModelRig.png)
-5. Go to the Materials tab and change the location to "Use extracted materials (Legacy)".
+6. Click on the .fbx file and go to the Rig tab. Change it to **humanoid** and click apply. Make sure that avatar is created.
+ ![Rig](/DocImg/ModelRig.png)
+7. Go to the Materials tab and change the location to "Use extracted materials (Legacy)".
 
-![](/DocImg/ModelMat.png)
+![]Mat(/DocImg/ModelMat.png)
 
-6. Add your FBX to the scene
-7. Add the "Copy Components Object".
-8. Drag the TemplateWaifu into the object.
-9. Copy components.
-10. Press play and test
+8. Add your FBX to the scene
+9. Add the "Copy Components Object".
+10. Drag the TemplateWaifu into the object.
+11. Copy components.
+12. Press play and test
  Press space to play the test audio.
-11. Change the **Waifu Info** to what you want.
-12. Do any other changes you want, materials, dynamic bones, springbones, dps, ect
+13. Change the **Waifu Info** to what you want.
+14. Do any other changes you want, materials, dynamic bones, springbones, dps, ect
 
 Make any adjustments you want, such as changing shaders or adding dynamic bones, magica cloth, or DPS. Please see the list of software that is able to be loaded. You can also suggest new software for the next build in doscrd
 
@@ -96,6 +99,8 @@ Todo: VRM Support from within unity.
 
 # **Mod.io Upload and Testing**
 
+[The Waifuverse mod.IO](https://mod.io/g/waifuverse)
+
 1. To test, go to MOD.IO and upload.
 2. Zip all three of our assets.
 3. Log into Mod.IO or create a new account.
@@ -105,7 +110,7 @@ Todo: VRM Support from within unity.
 7. Subscribe to your mod.
 8. Open the app and sign in if you haven't already.
 
-# **Making a Local/Private Mod or Quickload for Testing**
+# **Making a Local/Private Mod or Loading and Testing**
 
 1. To make a local/private mod or quickload for testing, drag the .zip file into the persistent data path below/
 
