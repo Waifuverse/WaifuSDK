@@ -24,12 +24,12 @@ This guide provides step-by-step instructions on how to create a Waifu model usi
 ![Unity Install](/DocImg/InstallEditor.png)
 3. Install the packages for **Android, Windows, Mac, and iOS.**![unityInstallOptions](/DocImg/addmodules.png)
 ![unityInstallSelection](/DocImg/AddModulesPackages.png)
-4. Download and Install **Blender** from the Blender website: [https://www.blender.org/download/](https://www.blender.org/download/)
+4. Download and Install **Blender 2.9.1** from the Blender website: [https://download.blender.org/release/Blender2.91/](https://download.blender.org/release/Blender2.91/)
 5. Download the **Cats Blender** plugin from the Github repository: [https://github.com/absolute-quantum/cats-blender-plugin](https://github.com/absolute-quantum/cats-blender-plugin)
 6. Download or clone the **WaifuSDK** from the Github repository: [https://github.com/Waifuverse/WaifuSDK](https://github.com/Waifuverse/WaifuSDK) YOU ARE HERE
 
 # **Formatting a MMD Model for the Waifuverse**
-
+BE SURE TO USE BLENDER VERSION 2.9.1
 1. Install the Cats plugin in Blender by going to **Edit -\> Preferences -\> Addons -\> Install Addons** and find the Cats plugin.
 2. **Checkbox** the Cats plugin to turn on
 ![CatsPlugin](/DocImg/InstallCats.png)
