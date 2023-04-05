@@ -20,7 +20,7 @@ public class BlinkController : MonoBehaviour
     private float timeSinceLastBlink = 0f; // The time since the last blink
     private float nextBlinkTime = 0f; // The time at which the next blink will occur
 
-    private AudioSource audioSource;
+    public AudioSource audioSource;
     void Start()
     {
         // Set the time for the first blink
