@@ -15,7 +15,7 @@ async def handle_client(websocket, path, client_type):
         input = await websocket.recv()
 
         #the input you receive is a
-        #print(f"Received message from {client_type}: {input}")
+        print(f"Received message from {client_type}: {input}")
 
 
         # Perform different actions based on client type
@@ -27,8 +27,15 @@ async def handle_client(websocket, path, client_type):
             output = "Macaque output"
             msg = json.loads(input)
 
-            output = remove_extra_new_lines(msg['message'])
-            print(output)
+            isGenerating = bool(msg['isGenerating'])
+            #print(isGenerating)
+            output = remove_extra_new_lines(msg['content'])
+            if not isGenerating:
+
+                print("sending to kitsune")
+                print(output)
+            else:
+                print(output)
         else:
             # Handle other client types
             output = "Unknown client type"
