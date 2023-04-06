@@ -8,6 +8,8 @@ using System.IO;
 using System.IO.Compression;
 using System.Linq;
 using UnityEditor.AddressableAssets;
+using UnityEngine.AddressableAssets;
+using UnityEngine.ResourceManagement.AsyncOperations;
 
 public class WaifuExporter : EditorWindow 
 {
@@ -41,6 +43,14 @@ public class WaifuExporter : EditorWindow
         if (GUILayout.Button("Open Addressables Groups Window", GUILayout.Height(40)))
         {
             OpenAddressablesGroupsWindow();
+        }
+        /*if (GUILayout.Button("Clear Addressables Groups", GUILayout.Height(40)))
+        {
+            ClearAddressablesFromDefaultLocalGroup();
+        }*/
+        if (GUILayout.Button("Remove Old Builds", GUILayout.Height(40)))
+        {
+            ClearBuilds();
         }
         
 
@@ -134,17 +144,19 @@ public class WaifuExporter : EditorWindow
             TakeScreenshot169();
             TakeScreenshot11();
         }
-        static void Clear()
+        void ClearBuilds()
         {
-            string exportPath = Application.dataPath + "/../Builds";
-            if (EditorUtility.DisplayDialog("Clear Exported Files", "This action will clear all files in the export folder:\n" + exportPath + "\nAre you sure you want to do this?", "Yes", "No"))
+            if (Directory.Exists(exportPath))
             {
-                string[] filePaths = Directory.GetFiles(exportPath);
-                foreach (string filePath in filePaths)
+                DirectoryInfo directory = new DirectoryInfo(exportPath);
+                foreach (FileInfo file in directory.GetFiles())
                 {
-                    File.Delete(filePath);
+                    file.Delete(); 
                 }
-                Debug.Log("Cleared all exported files at " + exportPath);
+                foreach (DirectoryInfo subDirectory in directory.GetDirectories())
+                {
+                    subDirectory.Delete(true); 
+                }
             }
         }
         
@@ -373,6 +385,8 @@ public class WaifuExporter : EditorWindow
         //EditorGUIUtility.PingObject(settings);
         EditorApplication.ExecuteMenuItem("Window/Asset Management/Addressables/Groups");
     }
+    
+    
     private bool CheckWaifuLabel()
     {
         AddressableAssetSettings settings = AddressableAssetSettingsDefaultObject.Settings;
