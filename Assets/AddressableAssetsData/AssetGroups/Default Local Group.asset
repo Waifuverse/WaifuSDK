@@ -17,16 +17,20 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: fc6828d1bba15c144868f191e5846065
   m_SerializeEntries:
-  - m_GUID: a7e47c7953712f546a3b1fc1f79ea21a
-    m_Address: Assets/CustomWaifu/Major/majortest2.fbx
+  - m_GUID: 564d23748840cf844a3bb01cb7a29541
+    m_Address: Assets/CustomWaifu/M/M.fbx
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: 8483a7bd1dce7624298358b2907099a4
-    m_Address: Assets/CustomWaifu/Major/Materials
+  - m_GUID: 448b39916bed3f940aa652934c64ad96
+    m_Address: Assets/CustomWaifu/M/Materials
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: c1d43691994eae5489d0328c916940fb
-    m_Address: Assets/CustomWaifu/Major/majortest2.prefab
+  - m_GUID: 13490c43770ac43499e6ef9be3fe83a8
+    m_Address: Assets/CustomWaifu/M/M.fbm
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 388bd7c612fd09442ae6eb08a1199bd0
+    m_Address: Assets/CustomWaifu/M/M.prefab
     m_ReadOnly: 0
     m_SerializedLabels:
     - Waifu

@@ -37,6 +37,8 @@ public class WaifuExporter : EditorWindow
         iosFolderExists = Directory.Exists(exportPath + "/IOS");
         //mac
         macFolderExists = Directory.Exists(exportPath + "/StandaloneOSX");
+            
+        GUILayout.Label("Waifu Exporter", EditorStyles.boldLabel);
 
         //provide button to open the export path
         
@@ -54,7 +56,7 @@ public class WaifuExporter : EditorWindow
         }
         
 
-        GUILayout.Label("Waifu Exporter", EditorStyles.boldLabel);
+        
         // set the window size
         this.minSize = new Vector2(300, 500);
         //this.maxSize = new Vector2(300, 100);
@@ -81,7 +83,7 @@ public class WaifuExporter : EditorWindow
            
         }
 
-        WaifuName = EditorGUILayout.TextField("Waifu Name", WaifuName);
+        //WaifuName = EditorGUILayout.TextField("Waifu Name", WaifuName);
         //describe the waifu name
         EditorGUILayout.LabelField("Build for each of the platforms and then zip the builds. ", GUILayout.Height(40));
         //CheckWaifuLabel();
