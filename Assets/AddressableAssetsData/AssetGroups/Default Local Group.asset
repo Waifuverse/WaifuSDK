@@ -17,20 +17,20 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: fc6828d1bba15c144868f191e5846065
   m_SerializeEntries:
-  - m_GUID: 564d23748840cf844a3bb01cb7a29541
-    m_Address: Assets/CustomWaifu/M/M.fbx
+  - m_GUID: 63af77395efc9b54a96919068b5aa696
+    m_Address: Assets/CustomWaifu/Bonzi Buddy/Materials
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: 448b39916bed3f940aa652934c64ad96
-    m_Address: Assets/CustomWaifu/M/Materials
+  - m_GUID: a008fe82b460e834e8209ca5fb9febcf
+    m_Address: Assets/CustomWaifu/Bonzi Buddy/textures
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: 13490c43770ac43499e6ef9be3fe83a8
-    m_Address: Assets/CustomWaifu/M/M.fbm
+  - m_GUID: 20e4fe5f42be6fb4b805e45a368f3bd3
+    m_Address: Assets/CustomWaifu/Bonzi Buddy/Bonzi Buddy.fbx
     m_ReadOnly: 0
     m_SerializedLabels: []
-  - m_GUID: 388bd7c612fd09442ae6eb08a1199bd0
-    m_Address: Assets/CustomWaifu/M/M.prefab
+  - m_GUID: 4624cd855f5f9f547b036465f5ca9ffe
+    m_Address: Assets/CustomWaifu/Bonzi Buddy/Bonzi Buddy.prefab
     m_ReadOnly: 0
     m_SerializedLabels:
     - Waifu
