@@ -252,7 +252,6 @@
      <None Include="Assets\CustomWaifu\1A - Jahy Sama\Materials\OptimizedShaders\28\Includes\CGI_PoiBlackLight.cginc" />
      <Folder Include="Assets\Oculus\SampleFramework\Usage\HandsTrainExample\TrainScene" />
      <None Include="Assets\CustomWaifu\1A - Jahy Sama\Materials\OptimizedShaders\earswhite\Includes\CGI_PoiBRDF.cginc" />
-     <Folder Include="Assets\CustomWaifu\2B\Build\StandaloneWindows" />
      <None Include="Assets\CustomWaifu\1A - Jahy Sama\Materials\OptimizedShaders\Ear Fluff\Includes\CGI_PoiBRDF.cginc" />
      <None Include="Assets\CustomWaifu\1A - Jahy Sama\Materials\OptimizedShaders\Ear Fluff\Includes\CGI_PoiGrab.cginc" />
      <None Include="Assets\CustomWaifu\1A - Jahy Sama\Materials\OptimizedShaders\28\Includes\CGI_PoiMirror.cginc" />
@@ -433,7 +432,6 @@
      <None Include="Assets\CustomWaifu\1A - Jahy Sama\Materials\OptimizedShaders\Jahy Clothes\Includes\CGI_PoiMirror.cginc" />
      <None Include="Assets\CustomWaifu\1A - Jahy Sama\Materials\OptimizedShaders\Boots\Includes\CGI_FunctionsArtistic.cginc" />
      <None Include="Assets\CustomWaifu\1A - Jahy Sama\Materials\OptimizedShaders\face_MikuAp\Includes\CGI_PoiBRDF.cginc" />
-     <Folder Include="Assets\CustomWaifu\2B\Build\iOS" />
      <None Include="Assets\CustomWaifu\1A - Jahy Sama\Materials\OptimizedShaders\Shorts\Includes\CGI_PoiUVDistortion.cginc" />
      <None Include="Assets\CustomWaifu\1A - Jahy Sama\Materials\OptimizedShaders\28\Includes\CGI_PoiShadowFrag.cginc" />
      <None Include="Assets\Toon\Shader\ToonColor_DoubleShadeWithFeather_TransClipping_StencilOut.shader" />
@@ -496,7 +494,6 @@
      <None Include="Assets\CustomWaifu\1A - Jahy Sama\Materials\OptimizedShaders\Jahy Clothes\Includes\CGI_PoiSpawnInVert.cginc" />
      <None Include="Assets\CustomWaifu\1A - Jahy Sama\Materials\OptimizedShaders\28\Includes\CGI_PoiGlitter.cginc" />
      <Folder Include="Assets\CustomWaifu\1A - Jahy Sama\Materials\OptimizedShaders\ring\Shaders" />
-     <None Include="Assets\CustomWaifu\2B\Build\Android\catalog_2023.04.24.22.36.58.json" />
      <None Include="Assets\CustomWaifu\1A - Jahy Sama\Materials\OptimizedShaders\face_MikuAp\Includes\CGI_PoiWireframe.cginc" />
      <None Include="Assets\CustomWaifu\1A - Jahy Sama\Materials\OptimizedShaders\Bikini\Includes\CGI_PoiMirror.cginc" />
      <None Include="Assets\CustomWaifu\1A - Jahy Sama\Materials\OptimizedShaders\Eyes\Includes\CGI_PoiEnvironmentalRimLighting.cginc" />
@@ -571,7 +568,6 @@
      <None Include="Assets\CustomWaifu\1A - Jahy Sama\Materials\OptimizedShaders\earswhite\Includes\CGI_PoiClearCoat.cginc" />
      <None Include="Assets\Oculus\SampleFramework\Usage\DistanceGrab\Materials\ToyCubeWithOutline.shader" />
      <Folder Include="Assets\CustomWaifu\Major" />
-     <Folder Include="Assets\CustomWaifu\2B\Build\StandaloneOSX" />
      <None Include="Assets\Oculus\SampleFramework\Core\Locomotion\Materials\ColumnGlow.shader" />
      <None Include="Assets\CustomWaifu\1A - Jahy Sama\Materials\OptimizedShaders\earswhite\Includes\CGI_PoiDissolve.cginc" />
      <None Include="Assets\Toon\Shader\Tess\Toon_ShadingGradeMap_Tess_Light.shader" />
@@ -634,7 +630,6 @@
      <None Include="Assets\CustomWaifu\1A - Jahy Sama\Materials\OptimizedShaders\Shorts\Includes\CGI_PoiVertexManipulations.cginc" />
      <Folder Include="Assets\CustomWaifu\Emelia\Emelia.fbm" />
      <Folder Include="Assets\CustomWaifu\Jahy" />
-     <None Include="Assets\CustomWaifu\2B\Build\StandaloneOSX\catalog_2023.04.24.22.38.14.json" />
      <None Include="Assets\CustomWaifu\1A - Jahy Sama\Materials\OptimizedShaders\Bikini\Includes\CGI_PoiDefines.cginc" />
      <None Include="Assets\CustomWaifu\1A - Jahy Sama\Materials\OptimizedShaders\earswhite\Shaders\S_Poiyomi_Toon.shader" />
      <Folder Include="Assets\Oculus\SampleFramework\Usage\SharedAssets\Materials" />
@@ -902,7 +897,6 @@
      <None Include="Assets\CustomWaifu\1A - Jahy Sama\Materials\OptimizedShaders\face_MikuAp\Includes\CGI_PoiLighting.cginc" />
      <None Include="Assets\CustomWaifu\1A - Jahy Sama\Materials\OptimizedShaders\Body\Includes\CGI_PoiBRDF.cginc" />
      <None Include="Assets\CustomWaifu\1A - Jahy Sama\Materials\OptimizedShaders\Shorts\Includes\CGI_PoiPanosphere.cginc" />
-     <Folder Include="Assets\CustomWaifu\2B\Build\Android" />
      <Folder Include="Assets\CustomWaifu\LuckyStar\Konata\Winter" />
      <None Include="Assets\CustomWaifu\1A - Jahy Sama\Materials\OptimizedShaders\Bikini\Includes\CGI_PoiShadowFrag.cginc" />
      <None Include="Assets\CustomWaifu\1A - Jahy Sama\Materials\OptimizedShaders\Bikini\Includes\CGI_PoiVideo.cginc" />
@@ -952,7 +946,6 @@
      <Folder Include="Assets\Oculus\SampleFramework\Core\Video\Plugins\Android" />
      <None Include="Assets\CustomWaifu\1A - Jahy Sama\Materials\OptimizedShaders\Bikini\Includes\CGI_PoiBlending.cginc" />
      <None Include="Assets\CustomWaifu\1A - Jahy Sama\Materials\OptimizedShaders\28\Includes\CGI_PoiSpecular.cginc" />
-     <None Include="Assets\CustomWaifu\2B\Build\iOS\catalog_2023.04.24.22.37.41.json" />
      <None Include="Assets\Toon\Shader\Tess\Toon_ShadingGradeMap_AngelRing_Tess.shader" />
      <None Include="Assets\CustomWaifu\1A - Jahy Sama\Materials\OptimizedShaders\Backhair\Includes\CGI_PoiGrab.cginc" />
      <Folder Include="Assets\Oculus\SampleFramework\Core\HandsInteraction\Scripts\Tools" />
@@ -1269,7 +1262,6 @@
      <None Include="Assets\CustomWaifu\1A - Jahy Sama\Materials\OptimizedShaders\Eyes\Includes\CGI_PoiMSDF.cginc" />
      <None Include="Assets\CustomWaifu\1A - Jahy Sama\Materials\OptimizedShaders\Jahy Clothes\Includes\CGI_PoiBRDF.cginc" />
      <None Include="Assets\Toon\Shader\Toon_DoubleShadeWithFeather_Mobile_StencilMask.shader" />
-     <None Include="Assets\CustomWaifu\2B\Build\StandaloneWindows\catalog_2023.04.24.22.35.56.json" />
      <None Include="Assets\CustomWaifu\1A - Jahy Sama\Materials\OptimizedShaders\Body\Includes\CGI_PoiUVDistortion.cginc" />
      <None Include="Assets\CustomWaifu\1A - Jahy Sama\Materials\OptimizedShaders\face_MikuAp\Includes\CGI_PoiBulge.cginc" />
      <None Include="Assets\CustomWaifu\1A - Jahy Sama\Materials\OptimizedShaders\earswhite\Includes\CGI_PoiShadowIncludes.cginc" />
