@@ -118,6 +118,7 @@ public class VoiceBlendShapeFinder : MonoBehaviour
         // if
         
     }
+    [ContextMenu("MakeEmptyBlendShape")]
     void MakeEmptyBlendShape()
     {
         if (skinnedMeshRenderer == null)

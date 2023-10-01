@@ -17,17 +17,18 @@ public class WaifuInfo : MonoBehaviour
     public string BackgroundInfo = " a cheerful and energetic waifu who loves to have fun and make people smile. She's a digital creation, designed to be the perfect companion for her owner, but her personality has grown far beyond her original programming.";
 
 
-    [Header("Voice, style, speed (0-200), pitch (0-400), gain (0-200)")]
-    [Tooltip("Voice, style, speed (0-200), pitch (0-400), gain (0-200)")]
+    [Header("Voice, style, speed (50-200), pitch (25-400), gain (1-200)")]
+    [Tooltip("Voice, style, speed (50-200), pitch (25-400), gain (1-200)")]
     public VoiceType voiceType = VoiceType.Female1;
     public VoiceStyle voiceStyle = VoiceStyle.Default;
     public WitVoice voice = new WitVoice();
 
-    [Range(0, 200)] public int speed = 115;
-    [Range(0, 400)] public int pitch = 135;
-    [Range(0, 200)] public int gain = 95;
-    
-    
+    [Range(50, 200)] public int speed = 115;
+    [Range(25, 400)] public int pitch = 135;
+    [Range(1, 200)] public int gain = 95;
+
+
+
 
     public class WitVoice
     {
