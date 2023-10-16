@@ -85,6 +85,9 @@ MonoBehaviour:
     m_LabelNames:
     - default
     - Waifu
+    - Map
+    - Item
+    - Emote
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: d85450ed6d70e9947a3146ded05a5224, type: 2}

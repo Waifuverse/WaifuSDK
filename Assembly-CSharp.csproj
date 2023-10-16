@@ -291,6 +291,7 @@
     <None Include="Assets\Toon\Shader\Toon_DoubleShadeWithFeather_Mobile_Clipping.shader" />
     <None Include="Assets\Toon\Shader\Tess\Toon_DoubleShadeWithFeather_TransClipping_Tess_StencilMask.shader" />
     <None Include="Assets\Toon\Shader\Tess\Toon_ShadingGradeMap_Tess_Light_StencilOut.shader" />
+    <None Include="Assets\CustomWaifu\Yukari Yakumo\üªüªòKé©é¿ôÃé¦é¡é¥é¦éóüªüª.txt" />
     <None Include="Assets\Toon\Shader\Toon_ShadingGradeMap_Mobile_TransClipping_StencilMask.shader" />
     <None Include="Assets\Toon\Shader\Toon_DoubleShadeWithFeather_TransClipping.shader" />
     <None Include="Assets\Toon\Shader\Tess\ToonColor_ShadingGradeMap_Transparent_Tess.shader" />
@@ -360,6 +361,7 @@
     <None Include="Assets\Oculus\SampleFramework\Usage\SceneManager\Shaders\GlassMask.shader" />
     <None Include="Assets\Toon\Shader\Tess\Toon_DoubleShadeWithFeather_Tess.shader" />
     <None Include="Assets\Oculus\SampleFramework\Core\CustomHands\Materials\Hands_DiffBump.shader" />
+    <None Include="Assets\CustomWaifu\Yukari Yakumo\é¦êÑÄA.txt" />
     <None Include="Assets\Toon\Shader\Tess\Toon_DoubleShadeWithFeather_TransClipping_Tess.shader" />
     <None Include="Assets\Toon\Shader\ToonColor_ShadingGradeMap.shader" />
     <None Include="Assets\Toon\Shader\Tess\ToonColor_ShadingGradeMap_TransClipping_Tess_StencilMask.shader" />
