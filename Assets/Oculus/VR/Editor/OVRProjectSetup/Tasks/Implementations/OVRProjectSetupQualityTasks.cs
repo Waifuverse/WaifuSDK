@@ -50,9 +50,9 @@ internal static class OVRProjectSetupQualityTasks
         OVRProjectSetup.AddTask(
             level: OVRConfigurationTask.TaskLevel.Recommended,
             group: taskGroup,
-            isDone: buildTargetGroup => QualitySettings.masterTextureLimit == 0,
+            isDone: buildTargetGroup => QualitySettings.globalTextureMipmapLimit == 0,
             message: "Set Texture Quality to Full Res",
-            fix: buildTargetGroup => QualitySettings.masterTextureLimit = 0,
+            fix: buildTargetGroup => QualitySettings.globalTextureMipmapLimit = 0,
             fixMessage: "QualitySettings.masterTextureLimit = 0"
         );
 

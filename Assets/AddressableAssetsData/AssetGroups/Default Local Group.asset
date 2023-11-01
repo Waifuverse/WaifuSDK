@@ -16,25 +16,7 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: fc6828d1bba15c144868f191e5846065
-  m_SerializeEntries:
-  - m_GUID: 6a47a74ac75f97d4bbe839351d240271
-    m_Address: Assets/CustomMaps/TestMap/TestMap.unity
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Map
-  - m_GUID: 2178bee32f16e6a449e5ea18f20c0adb
-    m_Address: Assets/CustomMaps/Cube.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: 292702134ca70c94a90b611261a7973e
-    m_Address: Assets/CustomMaps/Kneeling Idle.fbx
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-  - m_GUID: febff9003207edf4598e92a55cd88485
-    m_Address: Assets/CustomWaifu/Yukari Yakumo/Yukari Final2 1.prefab
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Waifu
+  m_SerializeEntries: []
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 22f74f28cd6eaa944a58b0ec67aa1d64, type: 2}
   m_SchemaSet:

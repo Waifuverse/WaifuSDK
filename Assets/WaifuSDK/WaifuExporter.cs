@@ -410,35 +410,66 @@ public class WaifuExporter : EditorWindow
             EditorGUILayout.HelpBox("Please add assets to the default group.", MessageType.Error);
             return false;
         }
-        
+
 
         foreach (var entry in defaultGroup.entries)
         {
-            if (entry.labels.Contains("Waifu"))
+            // Check for any of the labels: Waifu, Map, Item, Animation, Scene
+            if (entry.labels.Contains("Waifu") || entry.labels.Contains("Map") || entry.labels.Contains("Item") || entry.labels.Contains("Animation") )
             {
-                Debug.Log(entry.labels);
-                //check if hte object Labeld Waifu is a .prefab
-                if (entry.address.Contains(".prefab"))
-                {
-                    
-                    return true;
-                }
-                else
-                {
-                    EditorGUILayout.HelpBox("Waifu object is not a .prefab.", MessageType.Error);
-                    return false;
-                }
-                return true;
-            }
-            //if no object is labeled Waifu
-            
-        }
-        EditorGUILayout.HelpBox("No object labeled Waifu found.", MessageType.Error);
+                Debug.Log($"Entry has one of the desired labels: {entry.labels}");
 
+                // Check if it's a .prefab for Waifu, Map, and Item
+                if (entry.labels.Contains("Waifu")  || entry.labels.Contains("Item"))
+                {
+                    if (entry.address.EndsWith(".prefab"))
+                    {
+                        return true;
+                    }
+                    else
+                    {
+                        EditorGUILayout.HelpBox($"{entry.labels} object is not a .prefab.", MessageType.Error);
+                        return false;
+                    }
+                }
+
+                // Check if it's a .unity for Scene
+                if (entry.labels.Contains("Map"))
+                {
+                    if (entry.address.EndsWith(".unity"))
+                    {
+                        return true;
+                    }
+                    else
+                    {
+                        EditorGUILayout.HelpBox("Map object is not a .unity.", MessageType.Error);
+                        return false;
+                    }
+                }
+
+                // Check if it's an animation override for Animation
+                if (entry.labels.Contains("Animation"))
+                {
+                    if (entry.address.EndsWith(".overrideController"))  // Replace this condition with the actual check for an animation override
+                    {
+                        return true;
+                    }
+                    else
+                    {
+                        EditorGUILayout.HelpBox("Animation is not an animation override.", MessageType.Error);
+                        return false;
+                    }
+                }
+            }
+        }
+
+        // If no object has the required labels
+        EditorGUILayout.HelpBox("No object with the desired labels found.", MessageType.Error);
         return false;
     }
-    
-    
 }
+    
+    
+
 
 #endif

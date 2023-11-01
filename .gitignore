@@ -1,47 +1,75 @@
-Library/
-Logs/
-Temp/
-Recordings/
-Assets/CustomWaifu/*
-Assets/CustomMaps/*
+# -----------------------
+# Unity Specific
+# -----------------------
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Aa]ssets/AssetStoreTools*
 
-
-Builds/*
-_DesktopBuild/WaifuverseAIGF_Data/sharedassets0.assets.resS
-_DesktopBuild\WaifuverseAIGF_Data\sharedassets0.assets.resS
-
-
+# -----------------------
+# File Extensions
+# -----------------------
+*.csproj
+*.unity
+*.sln
+*.apk
 *.swp
 *.*~
-project.lock.json
-.DS_Store
 *.pyc
-nupkg/
 
-# Visual Studio Code
-.vscode
+# -----------------------
+# Directories
+# -----------------------
+Assets/CustomWaifu/*
+Assets/CustomMaps/*
+Assets/MagicaCloth2
+Assets/AddressableAssetsData/*
 
-# Rider
-.idea
-
-# User-specific files
+# -----------------------
+# User-Specific
+# -----------------------
 *.suo
 *.user
 *.userosscache
 *.sln.docstates
 
-# Build results
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-[Rr]eleases/
-x64/
-x86/
-build/
-bld/
-[Bb]in/
-[Oo]bj/
-[Oo]ut/
-msbuild.log
-msbuild.err
-msbuild.wrn
+# -----------------------
+# Misc
+# -----------------------
+.project
+.projectprefs
+.userprefs
+project.lock.json
+.DS_Store
+
+# -----------------------
+# Visual Studio Code
+# -----------------------
+.vscode
+
+# -----------------------
+# JetBrains Rider
+# -----------------------
+.idea
+
+# -----------------------
+# Addressable Asset Data
+# -----------------------
+Assets/AddressableAssetsData/Android/addressables_content_state.bin
+Assets/AddressableAssetsData/AssetGroups/Default Local Group.asset
+Assets/AddressableAssetsData/iOS/addressables_content_state.bin
+Assets/AddressableAssetsData/OSX/addressables_content_state.bin
+Assets/AddressableAssetsData/Windows/addressables_content_state.bin
+
+# -----------------------
+# Misc Project Specific
+# -----------------------
+MagicaClothV2.csproj
+MagicaClothV2.Editor.csproj
+MagicaCloth2UPMImporterShaderGraph.csproj
+MagicaClothV2UPMImporterBurst.csproj
+MagicaClothV2UPMImporterCollections.csproj
+

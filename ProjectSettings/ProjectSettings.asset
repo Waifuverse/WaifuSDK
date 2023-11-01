@@ -805,7 +805,8 @@ PlayerSettings:
   webGLThreadsSupport: 0
   webGLDecompressionFallback: 0
   webGLPowerPreference: 2
-  scriptingDefineSymbols: {}
+  scriptingDefineSymbols:
+    Standalone: MAGICACLOTH2
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
