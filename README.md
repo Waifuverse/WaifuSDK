@@ -1,5 +1,5 @@
 
-#[View the video tutorial playlist](https://www.youtube.com/watch?v=cT1kuoDLScY&list=PL7SY0P6poZnDPtJqm1ta_PWC4e1ofU7q_)
+[![Video Tutorial](DocImg/YoutubeEp1.png)](https://www.youtube.com/watch?v=cT1kuoDLScY&list=PL7SY0P6poZnDPtJqm1ta_PWC4e1ofU7q_)
 
 ## [**DOWNLOAD THE WAIFU SDK HERE**](https://github.com/Waifuverse/WaifuSDK/archive/refs/heads/main.zip)
 
@@ -24,7 +24,7 @@ This guide provides step-by-step instructions on how to create a Waifu model usi
 # **Setup**
 
 1. Download and Install **Unity Hub** from the Unity website: [https://unity.com/download](https://unity.com/download)
-2. Using **Unity Hub** Install Unity **2021.3.21f1**
+2. Using **Unity Hub** Install Unity **2022.3.5f1**
 ![Unity Install](/DocImg/InstallEditor.png)
 3. Install the packages for **Android, Windows, Mac, and iOS.**![unityInstallOptions](/DocImg/addmodules.png)
 ![unityInstallSelection](/DocImg/AddModulesPackages.png)
